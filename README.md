@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mladen</h1>
-<h3 align="center">A passionate Java developer from Serbia</h3>
+<h1 align="left">Hi 👋, I'm Mladen</h1>
+<h3 align="left">Junior Software Engineer</h3>
+<h3></h3>
 
 - 🌱 I’m currently learning **Docker**
 
