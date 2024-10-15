@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21448
-Fork on GitHub6743
 <h1 align="center">Hi 👋, I'm Mladen</h1>
 <h3 align="center">A passionate Java developer from Serbia</h3>
 
