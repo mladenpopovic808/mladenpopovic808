@@ -30,7 +30,7 @@
  <a href="https://junit.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="JUnit" width="40" height="40"/></a>
   </a>
   <p>JWT, JUnit, Mockito, JaCoCo, ActiveMQ, API Gateway, Eureka load balancer</p>
-  <p>Java reflection, scheduling & CronJobs, AOP</p>
+  <p>Java reflection, scheduling & CronJobs, AOP, concurrent programming</p>
   </p>
   
   
