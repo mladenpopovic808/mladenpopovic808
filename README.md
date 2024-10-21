@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/mladenpopovic808/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mladenpopovic808/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mladen.popovic.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mladen.popovic.7/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mladenpopovic8/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mladenpopovic8/?hl=en" height="30" width="40" /></a>
-  <p>JWT, JUnit, Mockito, JaCoCo, ActiveMQ, API Gateway</p>
+  
 </p>
 
 <h3 align="left">Main skills</h3>
@@ -29,6 +29,7 @@
  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/></a>
  <a href="https://junit.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="JUnit" width="40" height="40"/></a>
   </a>
+  <p>JWT, JUnit, Mockito, JaCoCo, ActiveMQ, API Gateway</p>
   </p>
   
   
