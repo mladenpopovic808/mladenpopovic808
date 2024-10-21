@@ -31,6 +31,7 @@
   </a>
   <p>JWT, JUnit, Mockito, JaCoCo, ActiveMQ, API Gateway, Eureka load balancer</p>
   <p>Java reflection, scheduling & CronJobs, AOP, concurrent programming</p>
+  <p>Jira, Trello, Asana</p>
   </p>
   
   
